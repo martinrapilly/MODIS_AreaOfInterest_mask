@@ -1,5 +1,5 @@
 # -*- coding: windows-1258 -*-
-##MODIS_Mask_arcpy script
+##MODIS_AreaOfInterest_Mask script
 ##Author: Martin Rapilly
 ##Applies a mask of the area of Interest (polygon) on a list of MODIS images
 
