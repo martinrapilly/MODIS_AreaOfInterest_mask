@@ -1,4 +1,4 @@
-# MODIS_Mask_arcpy
+# MODIS_AreaOfInterest_mask
 Applies a polygon mask of an area of interest on a list of MODIS images files using arcpy library
 
 You have to use an IDLE with arcpy library (like the IDLE installed by default with ArcMap 10.5).
